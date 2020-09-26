@@ -5,6 +5,7 @@ body {
     background-size: 1000%;
     margin: 0;
     padding-top: 800px;
+    width: auto;
 }
 
 .profile {
